@@ -1,0 +1,13 @@
+.Machine{
+    color: red;
+    background-color: teal;
+    border: 1px solid black;
+}
+.Win{
+    background-color: green;
+    color: brown;
+}
+.Lose{
+    background-color: red;
+    color: black;
+}

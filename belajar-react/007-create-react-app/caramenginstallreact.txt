@@ -1,0 +1,7 @@
+terdapat berbagai cara menginstall react app
+1. npm
+npm install -g create-react-app
+create-react-app my-app
+
+2. npx
+npx create-react-app my-app
